@@ -36,6 +36,7 @@
 - Yandex Maps API
 - OpenWeather API
 - Bootstrap
+- LocalStorage
 - FileReader
 
 ## Как использовать
