@@ -34,7 +34,6 @@
 - HTML
 - CSS
 - JavaScript
-- WebSocket
 - Yandex Maps API
 - OpenWeather API
 - Bootstrap
